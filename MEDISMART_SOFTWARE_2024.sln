@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MEDISMART_SOFTWARE_2024", "MEDISMART_SOFTWARE_2024.csproj", "{861B85E6-686F-4E16-984C-A4CAFE68BCAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{861B85E6-686F-4E16-984C-A4CAFE68BCAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{861B85E6-686F-4E16-984C-A4CAFE68BCAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{861B85E6-686F-4E16-984C-A4CAFE68BCAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{861B85E6-686F-4E16-984C-A4CAFE68BCAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98DCB1DE-598F-48D2-AC5B-511A95442F5E}
+	EndGlobalSection
+EndGlobal
